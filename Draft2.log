@@ -1,0 +1,21 @@
+LTspice 26.0.0 for Windows
+Circuit: C:\Users\Salem\Desktop\Projects\spice\Draft2.net
+Start Time: Sun Jul  5 03:06:18 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+C2: Increased Cpar to 9.72103e-14
+C4: Increased Cpar to 1.25612e-17
+C5: Increased Cpar to 8.03613e-18
+C9: Increased Cpar to 6.79052e-18
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.202 seconds.
+
+Files loaded:
+C:\Users\Salem\Desktop\Projects\spice\Draft2.net
+C:\Users\Salem\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Salem\Desktop\Projects\spice\OPA1655.LIB
+C:\Users\Salem\Desktop\Projects\spice\OPAx210.LIB
+

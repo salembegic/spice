@@ -1,0 +1,70 @@
+LTspice 26.0.0 for Windows
+Circuit: C:\Users\Salem\Desktop\Projects\spice\čip.net
+Start Time: Mon Jul  6 19:36:48 2026
+C:\Users\Salem\Desktop\Projects\spice\čip.net(23): Ignoring unknown model parameter. This may or may not be a problem.
++ TOX = 1.4E-8     NSUB = 1.2E17     GAMMA = 0.85
++ PHI = 0.7        VTO = 0.75        UO = 460.0
+                                     ^^^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(24): Ignoring unknown model parameter. This may or may not be a problem.
++ PHI = 0.7        VTO = 0.75        UO = 460.0
+  ^^^^^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(24): Ignoring unknown model parameter. This may or may not be a problem.
++ PHI = 0.7        VTO = 0.75        UO = 460.0
+                   ^^^^^^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(24): Ignoring unknown model parameter. This may or may not be a problem.
++ PHI = 0.7        VTO = 0.75        UO = 460.0
++ THETA = 0.1      KP = 1.5E-4       VMAX = 1E5
+                                     ^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(25): Ignoring unknown model parameter. This may or may not be a problem.
++ THETA = 0.1      KP = 1.5E-4       VMAX = 1E5
+  ^^^^^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(25): Ignoring unknown model parameter. This may or may not be a problem.
++ THETA = 0.1      KP = 1.5E-4       VMAX = 1E5
+                   ^^^^^^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(25): Ignoring unknown model parameter. This may or may not be a problem.
++ THETA = 0.1      KP = 1.5E-4       VMAX = 1E5
++ CGDO = 3.0E-10   CGSO = 3.0E-10    CGBO = 1E-12 )
+                                     ^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(29): Ignoring unknown model parameter. This may or may not be a problem.
++ TOX = 1.4E-8     NSUB = 1.2E17     GAMMA = 0.85
++ PHI = 0.7        VTO = -0.90       UO = 140.0
+                                     ^^^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(30): Ignoring unknown model parameter. This may or may not be a problem.
++ PHI = 0.7        VTO = -0.90       UO = 140.0
+  ^^^^^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(30): Ignoring unknown model parameter. This may or may not be a problem.
++ PHI = 0.7        VTO = -0.90       UO = 140.0
+                   ^^^^^^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(30): Ignoring unknown model parameter. This may or may not be a problem.
++ PHI = 0.7        VTO = -0.90       UO = 140.0
++ THETA = 0.1      KP = 4.5E-5       VMAX = 1E5
+                                     ^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(31): Ignoring unknown model parameter. This may or may not be a problem.
++ THETA = 0.1      KP = 4.5E-5       VMAX = 1E5
+  ^^^^^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(31): Ignoring unknown model parameter. This may or may not be a problem.
++ THETA = 0.1      KP = 4.5E-5       VMAX = 1E5
+                   ^^^^^^^^^^^^^^^^^^
+C:\Users\Salem\Desktop\Projects\spice\čip.net(31): Ignoring unknown model parameter. This may or may not be a problem.
++ THETA = 0.1      KP = 4.5E-5       VMAX = 1E5
++ CGDO = 3.0E-10   CGSO = 3.0E-10    CGBO = 1E-12 )
+                                     ^^^^^^^^^^^^^
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Total elapsed time: 0.204 seconds.
+
+Files loaded:
+C:\Users\Salem\Desktop\Projects\spice\čip.net
+C:\Users\Salem\AppData\Local\LTspice\lib\cmp\standard.mos
+
